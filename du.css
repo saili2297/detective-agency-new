@@ -1,13 +1,21 @@
 * {
     box-sizing: border-box;
 }
-
-header {
-    overflow-x: hidden;
-}
 header {
     background-image: url('bg_1.jpg');
-    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    
+}
+section {
+    width: 100%;
+}
+.bg-1 {
+    height: auto;
+    width: 100%;
+    text-align: center;
     
 }
 header .nav-link {
