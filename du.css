@@ -7,8 +7,6 @@ header {
 #header-img {
     background-image: url('bg_1.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
-    max-width: 100%;
     max-width: 100%;
     
 }
